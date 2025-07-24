@@ -25,10 +25,10 @@ localhost:4444/auth/signup
 // applicant
 
 {
-    "email": "abhishek@gmail.com",
+    "email": "aryan@gmail.com",
     "password": "test",
     "type": "applicant",
-    "name": "Abhishek Srivastava",
+    "name": "Aryan Vikram Singh",
     "education": [
         {
             "institutionName": "R.L.B. Mem. School",
